@@ -37,4 +37,4 @@ Feels like contributing to this project? Great! Fork it, make sure your stuffs a
 > Don't forget about comments!
 
 ## <u>License</u>
-This project is licensed under MIT License. You are free to use it! But don't forget to credit me "somewhere". ♥
+This project is licensed under MIT License. You are free to use it! But don't forget to credit me "somewhere". ♥# dedibogeng.github.io
