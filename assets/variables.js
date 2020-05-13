@@ -1,10 +1,10 @@
 export default {
   nicknames: ["Mbakk", "Tayangg", "Lelewww", "kamuuu"],
   greetings: {
-    evening: "Good Evening, Lelaaa",
-    afternoon: "Good Afternoon, Lelaa",
-    day: "Good Day, Lelaaa",
-    morning: "Good Morning, Lelaaa",
-    night: "Good Night, Lelaaa"
+    evening: "Good Evening",
+    afternoon: "Good Afternoon",
+    day: "Good Day",
+    morning: "Good Morning",
+    night: "Good Night"
   }
 };
